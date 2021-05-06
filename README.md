@@ -3,10 +3,10 @@
 ## Demo here
 https://www.youtube.com/playlist?list=PLWVHPmzDfDpmvzU87rtiRmpRnY1mBemBu
 
-
+||||
 :-------------------------:|:-------------------------:|:-------------------------: 
-![T51](https://user-images.githubusercontent.com/39910677/117292953-17470580-ae71-11eb-995a-69db74f75c4b.gif)
-||
+![T51](https://user-images.githubusercontent.com/39910677/117292953-17470580-ae71-11eb-995a-69db74f75c4b.gif)|![T52](https://user-images.githubusercontent.com/39910677/117293068-3c3b7880-ae71-11eb-9188-3f497661df10.gif)|![T53](https://user-images.githubusercontent.com/39910677/117293110-4a899480-ae71-11eb-9b23-b295032b882c.gif)
+
 
 **Hand-in:** May 14, 2021, 18:00 CEST 
 
